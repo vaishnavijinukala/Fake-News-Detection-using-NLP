@@ -1,0 +1,1 @@
+A Natural Language Processing project designed to classify news articles as Fake or Real using advanced transformer-based techniques. The system focuses on explainable AI by integrating LIME for transparent predictions and supports real-time analysis of news articles from URLs through an interactive application.
